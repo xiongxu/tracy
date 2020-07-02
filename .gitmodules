@@ -6,3 +6,4 @@
 	path = src/xxsds
 	url = https://github.com/xiongxu/sdsl-lite.git
 	ignore = dirty
+	branch = master
